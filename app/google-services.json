@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061356317055",
+    "firebase_url": "https://geocalc-5a080.firebaseio.com",
+    "project_id": "geocalc-5a080",
+    "storage_bucket": "geocalc-5a080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061356317055:android:ca382a209ade0f96",
+        "android_client_info": {
+          "package_name": "cis.gvsu.edu.geocalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061356317055-hsu9ur77a7n73thu59vkfhiusas5dn1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKPHmgut_RuDUFKt_PB2hjcj9-7AThrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
